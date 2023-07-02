@@ -1,4 +1,4 @@
-# Bubble Game
+# Bubble Game - https://sonal1729.github.io/GameBubbleRepo/
 
 This is a simple bubble game implemented using JavaScript and HTML, SCSS. The objective of the game is to click on hidden bubbles to increase your score within a given time limit. The game randomly generates bubbles of different colors, and each click on a hidden bubble increments the score.
 
